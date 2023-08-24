@@ -175,3 +175,6 @@ curl -X HSET "http://microblog.htb/static/unix:%2Fvar%2Frun%2Fredis%2Fredis.sock
 
 Oulalala, if we check top right corner, now we are PRO USER and we can upload images also :P;
 
+Upload a few images, add text and now using the text add function on the blog editor turn on Burpy suite and intercept again;
+Now send to repeater and modify it this way:
+
