@@ -221,6 +221,9 @@ hgetall cooper.dooper;
 ![image](https://github.com/st1llz0r/Format/assets/142597099/fd74c8f3-1a1c-4ddb-89f0-8ac01fd29612)
 
 
+ssh cooper@10.10.11.213;
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/da9a205d-c28a-4902-bbe2-312e54d78822)
 
 
 
