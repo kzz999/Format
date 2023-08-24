@@ -369,3 +369,7 @@ cat root.txt
 
 echo it
 
+![image](https://github.com/st1llz0r/Format/assets/142597099/0ade631b-49d4-4573-80b9-07152ff5d28a)
+
+*** And simply scare some noobz;
+
