@@ -230,4 +230,5 @@ ssh cooper@10.10.11.213;
 run sudo -l;
 
 
+![image](https://github.com/st1llz0r/Format/assets/142597099/518bbe39-ac6c-4942-bbb9-bdeaa6c4e78c)
 
