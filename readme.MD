@@ -67,7 +67,7 @@ Site is pretty basic as in infrastructure so the folders and all will apply for 
 
 Go into the Sunny Folder > check index.php and analyze code;
 
-{(
+```php
 <?php
 $username = session_name("username");
 session_set_cookie_params(0, '/', '.microblog.htb');
@@ -154,4 +154,4 @@ function fetchPage() {
 </body>
 </html>
 
-});
+```
