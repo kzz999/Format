@@ -8,3 +8,9 @@ information collection;
 nmap -sS -sVC target ip;
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/6773bb04-d5b4-4b0d-bbb6-d7159a9cbafb)
+
+  Navigate to target IP port 80;
+  Spoof DNS;
+
+ <b> echo '10.10.11.213 microblog.htb' >> /etc/hosts </b>
+
