@@ -22,7 +22,7 @@ nmap -sS -sVC target ip;
 
  Create an account and publish your own blog. Test out the Editing page and so on;
 
- On the editing page let's try and see how the web page reacts to basic XSS; 
+ On the editing page let's try and see how the web page reacts to basic XSS; Use the h1 option and input:
 
  <b> <script>alert(1)</script> </b>;
 
