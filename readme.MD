@@ -57,3 +57,11 @@ Who would ve thought =D
 ![image](https://github.com/st1llz0r/Format/assets/142597099/e5e3b712-7d3c-45d5-8552-d3b320d04135)
 
 
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/12aee48a-ae78-492a-9a95-a12172e64969)
+
+
+So, there is this Cooper guy (USER) who has created this sunny (blog domain);
+Site is pretty basic as in infrastructure so the folders and all will apply for our account also;
+
+/home/ibst1lllz0r/Downloads/index.php
