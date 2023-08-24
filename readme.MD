@@ -227,5 +227,7 @@ ssh cooper@10.10.11.213;
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/a3859395-e9b0-4085-9429-8f4e9fa8ab61)
 
+run sudo -l;
+
 
 
