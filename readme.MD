@@ -375,4 +375,7 @@ echo it
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/28388d44-bea5-486b-949e-548773d6c55a)
 
+*** =D JUST FOR THE SAKE OF THIS OK?
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/9c4ec536-f09e-4684-b742-6b6fbe4cfd28)
 
