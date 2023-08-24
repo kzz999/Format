@@ -45,4 +45,8 @@ n0w navigate to your browser and refresh:
 
  ![image](https://github.com/st1llz0r/Format/assets/142597099/2f0d0e67-ddc0-4af7-81e6-10b07a060be5)
 
+Pew pew pew pew
+We got a lead
+redis and git and user
+let's navigate to http://microblog.htb:3000/
 
