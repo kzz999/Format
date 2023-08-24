@@ -171,4 +171,7 @@ curl -X HSET "http://microblog.htb/static/unix:%2Fvar%2Frun%2Fredis%2Fredis.sock
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/4b0d839a-ea34-41cc-994f-3d5294c51705)
 
+![image](https://github.com/st1llz0r/Format/assets/142597099/abcc5c4d-09cf-4f73-9e47-18dcb43330c0)
+
+Oulalala, if we check top right corner, now we are PRO USER and we can upload images also :P;
 
