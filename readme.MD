@@ -225,6 +225,6 @@ ssh cooper@10.10.11.213;
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/da9a205d-c28a-4902-bbe2-312e54d78822)
 
-![image](https://github.com/st1llz0r/Format/assets/142597099/2fc806b1-ffab-4b59-b606-7af29873ef48)
+
 
 
