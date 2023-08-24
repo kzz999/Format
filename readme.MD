@@ -197,7 +197,17 @@ Navigate to: http://sarmale.microblog.htb/uploads/rev.php (OFC CHANGE TO YOUR BL
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/aa70134b-2690-4491-a089-97c865a234b6)
 
+
+
+
+
 <b> WE GOT IT </b>
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/84984c3c-9713-4cb3-b344-8c2e4da6f69e)
 
+RUN REDIS: 
+redis-cli -s /var/run/redis/redis.sock
+KEYS
+
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/2f1866d5-83c0-40b7-8d29-b183ed277d3c)
