@@ -36,4 +36,7 @@ nmap -sS -sVC target ip;
 
   ![image](https://github.com/st1llz0r/Format/assets/142597099/52e58d19-1292-4a6a-a383-98a9ca924351)
 
+  After analyzing let's start with basic stuff, basic LFI:
+
+
 
