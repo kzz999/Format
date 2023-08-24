@@ -371,5 +371,8 @@ echo it
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/0ade631b-49d4-4573-80b9-07152ff5d28a)
 
-*** And simply scare some noobz;
+*** LAST IMPORTANT STEP, BE A CHEAP TROLL;
+
+![image](https://github.com/st1llz0r/Format/assets/142597099/28388d44-bea5-486b-949e-548773d6c55a)
+
 
