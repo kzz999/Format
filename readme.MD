@@ -38,6 +38,11 @@ nmap -sS -sVC target ip;
 
   After analyzing let's start with basic stuff, basic LFI:
 
+ ![image](https://github.com/st1llz0r/Format/assets/142597099/dfc3ff0a-2bac-4c0c-9bcb-cf08433e7a27)
+
+
+n0w navigate to your browser and refresh:
+
  ![image](https://github.com/st1llz0r/Format/assets/142597099/2f0d0e67-ddc0-4af7-81e6-10b07a060be5)
 
 
