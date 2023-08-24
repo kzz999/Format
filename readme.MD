@@ -155,3 +155,18 @@ function fetchPage() {
 </html>
 
 ```
+This provisionProUser () function seems to set a USER to be a PRO USER;
+
+isPro () instructs us how to;
+
+So we need to use a redis command in order to make our account PRO user;
+
+Worth to check https://redis.io/commands/hset/;
+
+```php
+
+curl -X HSET "http://microblog.htb/static/unix:%2Fvar%2Frun%2Fredis%2Fredis.sock:YOUR_USERNAME%20pro%20true%20/b"
+
+```
+
+
